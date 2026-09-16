@@ -1,0 +1,33 @@
+# Cadence Xcelium generated files
+xcelium.d/
+cov_work/
+xrun.key
+xrun.history
+*.key
+*.history
+*.log
+*.jou
+
+# Coverage databases
+*.ucm
+*.ucd
+
+# Waveforms
+waves/
+*.vcd
+*.shm
+*.fsdb
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.out
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
